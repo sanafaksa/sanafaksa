@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">👋 Hey, I'm Nafi'an</h1>
+<h1 align="center">👋 Hey WORLD , I'm Nafi'an</h1>
 
 <p align="center">
   <img height="150" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Aspiring+AI+Engineer;React+%7C+Next+%7C+Node" />
