@@ -128,7 +128,7 @@ A browser-based online photobooth application featuring custom frames, newspaper
 **Tech Stack**
 
 `HTML5` • `CSS3` • `JavaScript`
-
+live demo : https://myphotoboothkuonline.netlify.app/
 ---
 
 ### 📊 Finance Makroni Bucin
@@ -138,6 +138,7 @@ A financial dashboard application for monitoring sales, transactions, and busine
 **Tech Stack**
 
 `React` • `Chart.js` • `Tailwind CSS`
+live demo:https://makronibucin.netlify.app/
 
 🌍 Live Demo: https://makronibucin.netlify.app
 
@@ -150,7 +151,7 @@ Business profile website and online product catalog for a bakery business.
 **Tech Stack**
 
 `HTML5` • `CSS3` • `JavaScript`
-
+live demo :https://kaylacakecookies.netlify.app/
 ---
 
 ### 🎪 Totok Srimurni Sewa Tenda Solo
@@ -160,6 +161,7 @@ Company profile website for tent rental and event equipment services.
 **Tech Stack**
 
 `HTML5` • `CSS3` • `JavaScript`
+live demo :https://totoksrimurnisewatendasolo.biz.id/
 
 ---
 
