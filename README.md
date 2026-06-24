@@ -129,7 +129,7 @@ A browser-based online photobooth application featuring custom frames, newspaper
 
 `HTML5` • `CSS3` • `JavaScript`
 
-live demo : https://myphotoboothkuonline.netlify.app/
+live demo : https://myphotoboothkuonline.netlify.app
 ---
 
 ### 📊 Finance Makroni Bucin
@@ -152,6 +152,7 @@ Business profile website and online product catalog for a bakery business.
 **Tech Stack**
 
 `HTML5` • `CSS3` • `JavaScript`
+
 live demo :https://kaylacakecookies.netlify.app/
 ---
 
