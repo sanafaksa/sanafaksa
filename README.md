@@ -128,6 +128,7 @@ A browser-based online photobooth application featuring custom frames, newspaper
 **Tech Stack**
 
 `HTML5` • `CSS3` • `JavaScript`
+
 live demo : https://myphotoboothkuonline.netlify.app/
 ---
 
@@ -138,7 +139,7 @@ A financial dashboard application for monitoring sales, transactions, and busine
 **Tech Stack**
 
 `React` • `Chart.js` • `Tailwind CSS`
-live demo:https://makronibucin.netlify.app/
+
 
 🌍 Live Demo: https://makronibucin.netlify.app
 
@@ -161,6 +162,7 @@ Company profile website for tent rental and event equipment services.
 **Tech Stack**
 
 `HTML5` • `CSS3` • `JavaScript`
+
 live demo :https://totoksrimurnisewatendasolo.biz.id/
 
 ---
