@@ -105,17 +105,6 @@
 
 ---
 
-# 🎯 Current Focus
-
-* ⚛️ React Development
-* ▲ Next.js Development
-* 🚀 Astro Development
-* 🎨 UI/UX Design
-* 🔍 Technical SEO
-* ⚡ Website Performance Optimization
-* 📱 Responsive Web Development
-* 🤖 AI Integration for Websites
-* 🌍 Building Scalable Web Applications
 
 ---
 
