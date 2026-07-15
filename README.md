@@ -24,20 +24,6 @@
 * 📸 Photographer
 * 🎬 Videographer & Video Editor
 ---
-
-# 🚀 Portfolio Highlights
-
-* 🏆 10+ Completed Web Projects
-* 🌐 Multiple Business & Company Profile Websites
-* 💰 Financial Management Systems
-* 📱 Mobile-First Responsive Design
-* 🎨 Modern UI/UX Design
-* 🔍 Technical SEO Optimization
-* ⚡ Core Web Vitals Optimization
-* 🚀 Performance-Focused Front-End Development
-* 🌍 Website Deployment using Vercel & Netlify,HOSTINGER,DOMAINESIA,RUMAHWEB
-* 📈 SEO-Friendly Website Architecture
-
 ---
 
 # 🛠️ Tech Stack
