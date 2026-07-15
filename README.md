@@ -102,23 +102,6 @@
 
 ---
 
-# ⚡ Expertise
-
-* Front-End Development
-* Responsive Web Design
-* Landing Page Development
-* Company Profile Websites
-* Business Websites
-* Technical SEO
-* Core Web Vitals Optimization
-* Website Performance Optimization
-* UI/UX Design
-* API Integration
-* Deployment & CI/CD
-* Progressive Web Apps (PWA)
-* Accessibility (WCAG)
-* Website Maintenance
-* Modern Component Architecture
 
 ---
 
