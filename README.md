@@ -23,11 +23,6 @@
 * ⚡ Web Performance Optimization
 * 📸 Photographer
 * 🎬 Videographer & Video Editor
-* 🌐 Founder of Aksanaf Production
-* 🚀 Passionate about Modern Web Development
-* 📚 Continuously learning new technologies and design trends
-* 💡 Love building fast, accessible, and scalable web applications
-
 ---
 
 # 🚀 Portfolio Highlights
@@ -40,7 +35,7 @@
 * 🔍 Technical SEO Optimization
 * ⚡ Core Web Vitals Optimization
 * 🚀 Performance-Focused Front-End Development
-* 🌍 Website Deployment using Vercel & Netlify
+* 🌍 Website Deployment using Vercel & Netlify,HOSTINGER,DOMAINESIA,RUMAHWEB
 * 📈 SEO-Friendly Website Architecture
 
 ---
