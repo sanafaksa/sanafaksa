@@ -4,18 +4,6 @@
 
 
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sanafaksa\&show_icons=true\&theme=radical\&count_private=true)
-
-![](https://streak-stats.demolab.com?user=sanafaksa\&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanafaksa\&layout=compact\&theme=radical)
-
----
-
 
 ---
 
@@ -110,16 +98,7 @@ https://totoksrimurnisewatendasolo.biz.id/
 
 ---
 
-# 🏆 Achievements
-
-* 🚀 Built Multiple Real-World Client Websites
-* 🎨 Designed Modern UI/UX Interfaces
-* 🌐 Developed Business & Company Profile Websites
-* 💰 Built Financial Dashboard Applications
-* 📱 Developed Mobile-Responsive Websites
-* 🔍 Implemented Technical SEO
-* ⚡ Optimized Core Web Vitals
-* 🚀 Successfully Deployed Projects using Vercel & Netlify
+#
 
 ---
 
@@ -146,6 +125,3 @@ https://totoksrimurnisewatendasolo.biz.id/
 
 ---
 
-# ⭐ Thanks for visiting my profile!
-
-*"Building modern websites with performance, accessibility, and SEO in mind. Every project is an opportunity to create meaningful digital experiences."*
